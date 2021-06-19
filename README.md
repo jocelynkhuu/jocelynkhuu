@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jocelynkhuu
-- 🐧I’m interested in Cybersecurity and Linux!
+- 🐧 I’m interested in Cybersecurity and Linux!
 - 🌱 I’m currently learning Python.
 - 🔥 Feel free to check out my website for more information about me: jocelynkhuu.github.io
 
