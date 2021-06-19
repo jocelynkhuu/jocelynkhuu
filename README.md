@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @jocelynkhuu
 - 🐧 I’m interested in Cybersecurity and Linux!
 - 🌱 I’m currently learning Python.
@@ -8,4 +9,4 @@ jocelynkhuu/jocelynkhuu is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![ohthedeception](https://user-images.githubusercontent.com/62637533/122638552-8e46ff00-d0a9-11eb-9263-044bd3b479b7.png)
+![ohthedeception](https://user-images.githubusercontent.com/62637533/122641225-bee26500-d0b8-11eb-80d5-c98bded259f1.png)
