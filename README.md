@@ -8,4 +8,5 @@ jocelynkhuu/jocelynkhuu is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![ohthedeception](https://user-images.githubusercontent.com/62637533/122641225-bee26500-d0b8-11eb-80d5-c98bded259f1.png)
+![ohthedeception](https://user-images.githubusercontent.com/62637533/123417235-60136480-d56c-11eb-80aa-354e63ff44e8.png)
+
