@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jocelynkhuu
-- 🐧 A Cybersecurity and Linux Enthusiast
+- 🔐 Aspiring Security Engineer interested in IDR
+- 🐧 Linux Enthusiast
 - 🌱 print("Currently Learning Python")
 - 🔥 Feel free to check out my blog for more information about me: jocelynkhuu.github.io
 
