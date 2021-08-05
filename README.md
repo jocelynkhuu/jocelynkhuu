@@ -2,7 +2,6 @@
 - 🔐 Aspiring Security Engineer interested in IDR
 - 🐧 Linux Enthusiast
 - 🌱 print("Currently Learning Python")
-- 🔥 Feel free to check out my blog for more information about me: jocelynkhuu.github.io
 
 <!---
 jocelynkhuu/jocelynkhuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
