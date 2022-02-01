@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jocelynkhuu
-- 🔐 Aspiring Security Engineer interested in Endpoint Security and IDR
+- 🔐 Endpoint Security Engineer
 - 🐧 Linux Enthusiast
 - 🌱 print("Currently Learning Python")
 
