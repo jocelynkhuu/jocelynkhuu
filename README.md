@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jocelynkhuu
+- 🌱 Hi, I’m @jocelynkhuu
 - 🔐 Security Engineer
 - 🐧 Linux Enthusiast
-- 🌱 print("Currently Learning Python")
 
 <!---
 jocelynkhuu/jocelynkhuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
